@@ -1,0 +1,16 @@
+{
+  "name": "mensajeria-familiar-notificaciones",
+  "version": "1.0.0",
+  "description": "Servidor de notificaciones para Mensajeria Familiar",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "firebase-admin": "^13.5.0"
+  }
+}
